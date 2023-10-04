@@ -2,8 +2,6 @@
 
 // Implementar os comandos de decisão para verificar números quadrados pares ou ímpares
 
-
-
 var soma_par = 0;
 var soma_impar = 0;
 
